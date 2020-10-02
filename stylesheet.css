@@ -123,3 +123,8 @@ input, textarea {
 .footer-list li{
   padding-bottom: 20px;
 }
+
+.pic_item {
+  width: 240px;
+  height: 288px;
+}
